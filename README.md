@@ -15,7 +15,8 @@ The dataset used in this analysis contains information on various key metrics of
 * **FV of Rewards (USD):** Future Value of staking rewards.
 * **PV of Rewards (USD):** Present Value of staking rewards.
 * **Liq Pool Utl Ratio:** Liquidity Pool Utilization Ratio.
-The data, provided in an Excel spreadsheet [here]([data.xlsx](https://github.com/JoeAkpan28/Financial-modelling-1/blob/main/Fin.%20model%201.xlsx)), spans a period of time, allowing for analysis of trends and growth rates.
+  
+The data, provided in an Excel spreadsheet [here](https://github.com/JoeAkpan28/Financial-modelling-1/blob/main/Fin.%20model%201.xlsx), spans a period of time, allowing for analysis of trends and growth rates.
 
 
 ## Analysis Objectives
@@ -47,7 +48,7 @@ Specific details of the methodology used for each analysis objective are documen
 
 ## Excel Workbook
 
-The main analysis is contained within the workbook [here]([analysis.xlsx](https://github.com/JoeAkpan28/Financial-modelling-1/blob/main/Fin.%20model%201.xlsx)). Each sheet corresponds to a specific analysis objective.
+The main analysis is contained within the workbook [here](https://github.com/JoeAkpan28/Financial-modelling-1/blob/main/Fin.%20model%201.xlsx). Each sheet corresponds to a specific analysis objective.
 
 
 ## Results and Conclusions
