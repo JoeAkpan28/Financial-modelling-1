@@ -1,4 +1,4 @@
-# Cryptocurrency Project Analysis:  Replicating Financial Modeling Skills in Excel
+# Quantitative Analysis in Cryptocurrency with Microsoft Excel
 
 This repository documents a data analysis project performed entirely in Microsoft Excel, aimed at replicating financial modeling techniques using a cryptocurrency dataset. The analysis explores various aspects of the project's performance, user behavior, and financial implications.
 
